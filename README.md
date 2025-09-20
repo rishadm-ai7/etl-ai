@@ -1,4 +1,4 @@
-# firmableai-smart-etl
+# etl-ai
 
 ## Overview
 This project implements a data pipeline to extract, transform, and load Australian company data from:
