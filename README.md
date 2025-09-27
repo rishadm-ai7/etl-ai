@@ -26,3 +26,5 @@ The pipeline integrates both sources into a **unified company view** stored in P
   - LLM for ambiguous cases (with JSON-structured prompts)
 
 ---
+
+Using storage as MinIO initially because its not very good to store it in db osince the storage cost is very high and its not very optimal to store big data in dbs like postgres.
