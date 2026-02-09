@@ -1,5 +1,5 @@
 # etl-ai
-
+Assignment project for Firmable
 ## Overview
 This project implements a data pipeline to extract, transform, and load Australian company data from:
 1. **Common Crawl (March 2025 Index)** — extract company names, URLs, industries from ~200k AU websites.
